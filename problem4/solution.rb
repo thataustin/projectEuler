@@ -1,3 +1,5 @@
+class Solution4 
+end
 def find_palindrome(largest_factor)
     potential_palindrome = largest_factor.to_s + largest_factor.to_s.reverse
     return potential_palindrome if is_qualifying_palindrome(potential_palindrome)

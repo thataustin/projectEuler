@@ -1,3 +1,5 @@
+class Solution3 
+end
 max = 600851475143
 i = 1
 smallest_big_factor_so_far = 600851475143

@@ -1,3 +1,5 @@
+class Solution10 
+end
 def is_prime(number, next_divisor = 2)
     go_up_to = number / next_divisor # it's ok if this is a decimal
 

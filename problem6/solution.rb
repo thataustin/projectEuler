@@ -1,3 +1,5 @@
+class Solution6 
+end
 a = 0
 (0..100).each {|val| a += val*val}
 

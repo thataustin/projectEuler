@@ -1,3 +1,5 @@
+class Solution9 
+end
 possible_solutions = {}
 
 1_000.times do |a|

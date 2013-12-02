@@ -1,3 +1,5 @@
+class Solution5 
+end
 def is_divisble_by_all(num)
     for i in 1..20
         return false if (num % i) != 0
