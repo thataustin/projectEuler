@@ -1,0 +1,16 @@
+{
+  "name": "problem22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
